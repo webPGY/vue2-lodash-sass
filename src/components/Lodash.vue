@@ -54,7 +54,7 @@
               margin: 20px auto;
            & a{
               display: inline-block;
-              border-radius: 5px;
+              border-radius: 6px;
               width: inherit;
               height: inherit;
               text-align: center;
