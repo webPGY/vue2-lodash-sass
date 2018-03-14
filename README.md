@@ -30,4 +30,4 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-#vue2.0 结合vue-i18n实现的国际化项目
+#vue2.0 lodash sass
